@@ -24,3 +24,4 @@ printf(" trung binh cong : %f",(float)sum/dem);
 
 }
 
+
