@@ -18,6 +18,5 @@ int main(){
 		if(arr[i]%2!=0){
 		sum +=arr[i];
 		dem++;;
-	}}
 		}printf(" tbc so le o vi tri chan la : %f", (float)sum/dem);
 }
